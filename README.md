@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://github.com/jefferson-git/jefferson-git/blob/main/banner.xcf)
+![](https://github.com/jefferson-git/jefferson-git/blob/main/banner.png)
 <!--
 **jefferson-git/jefferson-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

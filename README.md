@@ -5,7 +5,6 @@
 - 💼 Graduando em análise e desenvolvimento de sistema
 - ⚡ conhecimentos: Desenvolvimentos de API restful com spring boot e sistemas server-side (mvc), com template engine thymeleaf, JPA, Hibernate, bean validation, Design Patterns - DTO, tratamento de exceções de forma personalizada, postgre SQL
 
-- 🌱 atualmente estou aprendendo desenvolvimentos de microservices com java.
 - 📫 Como chegar até mim: jefferson.ads.go@gmail.com, contato: (62) 98511-9451
 - ❤️ Eu gosto de desenvolver usando java.
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/jefferson-git)
